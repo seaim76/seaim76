@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanzimul Haque Seaim</h1>
 <h3 align="center">I am a frontend developer</h3>
 
-//<img src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="800" //height="300">
+<!-- <img src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="800" //height="300">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seaim76&label=Profile%20views&color=0e75b6&style=flat" alt="seaim76" /> </p>
 
