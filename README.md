@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Frontend web-portfolio](https://seaim76.github.io/portfolio/)
 
-- 🌱 I’m currently learning **React,Angular**
+- 🌱 I’m currently learning **React js**
 
 - 👯 I’m looking to collaborate on **open source project**
 
