@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/seaim76?tab=repositories](https://github.com/seaim76?tab=repositories)
 
-- 💬 Ask me about **react,angular,python**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **seaim76@gmail.com**
 
