@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seaim</h1>
+<h1 align="center">Greeting 👋, I'm Seaim</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seaim76&label=Profile%20views&color=0e75b6&style=flat" alt="seaim76" /> </p>
