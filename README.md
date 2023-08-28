@@ -38,5 +38,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=seaim76&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/jaiswaladi246/seaim76/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seaim76/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
 
