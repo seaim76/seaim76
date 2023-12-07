@@ -1,8 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=seaim76&icon=0&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on React js<br><br>🌱 I’m currently learning React js,Next js and Tailwind CSS<br><br>👯 I’m looking to collaborate on Open Source project<br><br>👨‍💻 All of my projects are available at https://github.com/seaim76<br><br>💬 Ask me about react,php,node js<br><br>📫 How to reach me tanzimulhaque76@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Fc2CfNGjknEZ85IaQu9-xjs27RCn0qdS/view?usp=sharing
-
-
+# 💫 Website:
+<a href="https://tanzimulseaim.online/" target="blank">
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tanzimul-haque-seaim-ab3b521a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanzimul-haque-seaim-ab3b521a4/" height="30" width="40" /></a>
